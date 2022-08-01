@@ -1,0 +1,25 @@
+Source link for project
+https://www.kaggle.com/code/andy8744/ganyu-face-training-with-stylegan2-ada
+
+# Install prereqs for the CUDNN toolkit installation by nvidia
+# URL: https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html#download-windows
+
+# packages installed on stock anaconda
+- conda install seaborn
+- conda install -c anaconda cudnn
+// IMP: INSTALL GPU VERSION OF PYTORCH, NOT CPU VERSION [DEFAULT]
+- conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
+- conda install pytorch
+
+# to check CUDA Toolkit version [in powershell]
+
+- nvcc --version
+
+# To check GPU in Notebook
+# URL: https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=auto&commit=7cacebf10a228d80a98ee9e267bc3547cb6129cc&device=unknown&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f776f6374657a756d612f737465616d2d7374796c6567616e322d6164612d7079746f7263682f376361636562663130613232386438306139386565396532363762633335343763623631323963632f696d6167655f73616d706c696e672e6970796e62&logged_in=false&nwo=woctezuma%2Fsteam-stylegan2-ada-pytorch&path=image_sampling.ipynb&platform=android&repository_id=334955193&repository_type=Repository&version=99
+
+- !nvidia-smi
+
+space occupied by latent image save ops: n: number of layers in nn , en: number of epochs run, s: size of image [256x256; 512kb]
+
+# NOTE:  -- Stopped short of loading genshin impact dataset onto notebook and starting the "Preparing data phase" 7.9.22 5:21PM
