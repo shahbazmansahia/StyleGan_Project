@@ -23,3 +23,15 @@ https://www.kaggle.com/code/andy8744/ganyu-face-training-with-stylegan2-ada
 space occupied by latent image save ops: n: number of layers in nn , en: number of epochs run, s: size of image [256x256; 512kb]
 
 # NOTE:  -- Stopped short of loading genshin impact dataset onto notebook and starting the "Preparing data phase" 7.9.22 5:21PM
+
+
+# TEMP LINKS FOR HCI
+http://coe-hpc-web.sjsu.edu/
+https://www.sjsu.edu/workanywhere/students-faculty-staff/index.php
+https://www.sjsu.edu/teachanywhere/
+https://www.sjsu.edu/workanywhere/docs/work-anywhere-print-guide.pdf
+https://www.sjsu.edu/it/services/network/vpn/index.php
+https://vpn.sjsu.edu/CACHE/stc/3/index.html
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+https://www.ssh.com/academy/ssh/putty/windows
+https://www.sjsu.edu/it/
