@@ -24,6 +24,13 @@ space occupied by latent image save ops: n: number of layers in nn , en: number 
 
 # NOTE:  -- Stopped short of loading genshin impact dataset onto notebook and starting the "Preparing data phase" 7.9.22 5:21PM
 
+# for VPN to campus:
+# Cisco Anyconnect link:https://www.sjsu.edu/it/docs/connectivity/vpn-feb-2021/SJSU-VPN-Guide-WIN-Students.pdf
+# NOTE: CHANGE GROUP IN POPUP WINDOW TO STUDENT!
+
+# Logged in using SJSU_ID@coe-hpc1.sjsu.edu
+# testing with jupyter notebook ssh via VPN
+
 
 # TEMP LINKS FOR HCI
 http://coe-hpc-web.sjsu.edu/
