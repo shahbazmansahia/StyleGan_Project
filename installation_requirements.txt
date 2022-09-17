@@ -32,7 +32,12 @@ space occupied by latent image save ops: n: number of layers in nn , en: number 
 # testing with jupyter notebook ssh via VPN
 
 
-# TEMP LINKS FOR HCI
+# VPN CONNECTION NEEDED!!!!!! USE THE CISCO_ANY_CONNECT_THINGY
+
+# our directory is in /scratch/art-175-fa22/
+# NOTE: "cd .." to root (it is before home!)
+
+# TEMP LINKS FOR HPC
 http://coe-hpc-web.sjsu.edu/
 https://www.sjsu.edu/workanywhere/students-faculty-staff/index.php
 https://www.sjsu.edu/teachanywhere/
